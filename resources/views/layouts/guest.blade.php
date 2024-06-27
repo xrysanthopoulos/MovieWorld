@@ -70,7 +70,7 @@
         <div class="w-100">
             <div>
                 <a href="/">
-                    <h1>{{env('APP_NAME')}}</h1>
+                    <h1>{{env('APP_NAME')}} project</h1>
                 </a>
             </div>
             {{ $slot }}
